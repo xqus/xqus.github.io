@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on xqus.github.io</title>
+    <link>https://xqus.github.io/posts/</link>
+    <description>Recent content in Posts on xqus.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>MIT</copyright>
+    <lastBuildDate>Thu, 06 Aug 2020 11:34:04 +0200</lastBuildDate>
+    
+        <atom:link href="https://xqus.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://xqus.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 06 Aug 2020 11:34:04 +0200</pubDate>
+      
+      <guid>https://xqus.github.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;That is a big fat lie.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

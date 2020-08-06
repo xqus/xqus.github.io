@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://xqus.github.io/posts/my-first-post/</loc>
+    <lastmod>2020-08-06T11:34:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xqus.github.io/posts/</loc>
+    <lastmod>2020-08-06T11:34:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xqus.github.io/</loc>
+    <lastmod>2020-08-06T11:34:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xqus.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xqus.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xqus.github.io/true/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xqus.github.io/vs/</loc>
+  </url>
+  
+</urlset>

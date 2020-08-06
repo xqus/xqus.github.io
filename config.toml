@@ -1,0 +1,57 @@
+baseURL = "https://xqus.github.io/"
+languageCode = "en-us"
+title = "xqus.github.io"
+
+theme = "bento"
+
+author = "Leonardo Faria"
+copyright = "MIT"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+# Better code higlighting
+# via https://discourse.gohugo.io/t/pygmentscodefences-how-to-choose-themes/3842/3
+pygmentsCodefences = true
+pygmentsStyle = "vs"
+
+# Hightlight theme
+[markup.highlight]
+  style = "github"
+
+# Allow HTML rendering inside markdown
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  # Show intro in the home page (with headline and description)
+  intro = false
+  headline = "This is a headline"
+  description = "A minimalist theme for Hugo, build with Tailwind CSS."
+
+  # Copyright note in the footer
+  copyright = "Copyright © 2020 Audun Larsen"
+
+  # Image in the homepage. You can setup a different image for social media
+  cover = "images/vancouver.jpg"
+  ogImage = "https://avatars3.githubusercontent.com/u/203013"
+
+  # Social media usernames
+  github = "xqus"
+  twitter = "xqus"
+  email = "larsen@xqus.com"
+
+  # Avatar (shown in the homepage)
+  avatar = "https://avatars3.githubusercontent.com/u/203013"
+  # Bio is shown in the end of posts
+  authorBio = ""
+
+# If you want to use fathom(https://usefathom.com) for analytics, add this section
+
+# Items in the top menu
+[menu]
+  [[menu.main]]
+      name = "Source code"
+      url = "https://github.com/xqus"
+      weight = 1

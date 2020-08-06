@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>xqus.github.io</title>
+    <link>https://xqus.github.io/</link>
+    <description>Recent content on xqus.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>MIT</copyright>
+    <lastBuildDate>Thu, 06 Aug 2020 11:34:04 +0200</lastBuildDate>
+    
+        <atom:link href="https://xqus.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>https://xqus.github.io/posts/</link>
+      <pubDate>Thu, 06 Aug 2020 11:34:04 +0200</pubDate>
+      
+      <guid>https://xqus.github.io/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

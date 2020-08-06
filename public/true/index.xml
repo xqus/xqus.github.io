@@ -1,0 +1,14 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>True on xqus.github.io</title>
+    <link>https://xqus.github.io/true/</link>
+    <description>Recent content in True on xqus.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>MIT</copyright>
+    
+        <atom:link href="https://xqus.github.io/true/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
